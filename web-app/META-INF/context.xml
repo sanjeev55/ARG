@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="mailSession"
+              auth="Container"
+              type="javax.mail.Session"
+              mail.debug="false"
+              mail.hostname="smtp.gmail.com"
+              mail.smtp.user="myusername@gmail.com"
+              password="mypassword"
+              mail.transport.protocol="smtp"
+              mail.smtp.host="smtp.gmail.com"
+              mail.smtp.auth="true"
+              mail.smtp.starttls.enable="true"
+              mail.smtp.EnableSSL.enable="true"
+              mail.smtp.socketFactory.class="javax.net.ssl.SSLSocketFactory"
+              mail.smtp.socketFactory.fallback="false"
+              mail.smtp.port="465"
+              mail.smtp.socketFactory.port="465"
+    />
+</Context>
