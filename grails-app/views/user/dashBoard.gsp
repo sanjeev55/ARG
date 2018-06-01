@@ -58,7 +58,7 @@
                                  class="nav-link js-scroll-trigger">Academic Year</g:link>
 
                     <li class="nav-item">
-                        <g:link controller="routine" action="generateRoutine"
+                        <g:link controller="routine" action="createChromosome"
                                 class="nav-link js-scroll-trigger">Generate Routine</g:link>
                     </li>
                     <li class="nav-item">
