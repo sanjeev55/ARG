@@ -1,5 +1,7 @@
 package arg
 
+import java.sql.Time
+
 class CollegeController {
 
    def enterData(){
@@ -20,6 +22,15 @@ class CollegeController {
         def subject=params.subject
         def classesPerWeek=Integer.parseInt(params.classesPerWeek)
         def type=params.type
+        def startTime= Time.valueOf(params.startTime)
+        def endTime= Time.valueOf(params.endTime)
+
+        def teacher=Teacher.findByShortName(shortName)
+        def teacherCode=teacher.code
+
+        def subject1=Subject.findByName(subject)
+        def subjectCode=subject1.code
+
 
         College college=new College()
 
@@ -30,6 +41,31 @@ class CollegeController {
         college.subject=subject
         college.classesPerWeek=classesPerWeek
         college.type=type
+        college.startTime=startTime
+        college.endTime=endTime
+        college.teacherCode=teacherCode
+        college.subjectCode=subjectCode
+
+        def data=College.findAll()
+        if(data.size()!=0){
+            def college1=College.findAll([sort: "id", order: "desc"])
+            def coll1=[]
+            coll1=college1.code
+
+            for(def i=0;i<1;i++) {
+                def code = coll1[i]
+                print("code:"+code)
+
+                def code0 = Integer.parseInt(code, 2)
+                def sum = code0 + Integer.parseInt("1", 2)
+                def finalCode = Integer.toBinaryString(sum)
+
+                college.code = finalCode
+            }
+        }
+        else{
+            college.code="0"
+        }
 
         college.save()
 

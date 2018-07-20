@@ -85,6 +85,18 @@
              <input type="text" name="classesPerWeek">
          </label>
      </div>
+        <div class="form-row">
+         <label>
+             <span>Start Time</span>
+             <input type="text" name="startTime">
+         </label>
+     </div>
+        <div class="form-row">
+         <label>
+             <span>End Time</span>
+             <input type="text" name="endTime">
+         </label>
+     </div>
         <div class="form-row" style="text-align: center">
             <input type="button" id="btnSubmit" value=Submit name="Book">
 

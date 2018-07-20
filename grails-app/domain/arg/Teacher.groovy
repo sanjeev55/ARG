@@ -9,7 +9,7 @@ class Teacher {
     String type
     String specialization
     String code
-    String subject
+
 
 
 

@@ -1,7 +1,7 @@
 package arg
 
 class Faculty {
-    int className
-    String section
+    String className
     String code
+    String semester
 }

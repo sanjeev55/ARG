@@ -6,6 +6,8 @@ class Subject {
     String faculty
     int semester
     String code
+    String elective
+    String electiveNumber
 
 
 }

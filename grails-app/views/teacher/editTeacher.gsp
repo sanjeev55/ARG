@@ -86,51 +86,7 @@
         </div>
 
     </g:form>
-    <g:javascript>
 
-        var faculty=$('#faculty').val();
-        var semester=$('#semester').val();
-        console.log(faculty);
-        console.log(semester);
-
-        $('#semester').change(function() {
-
-            console.log("User is pressing key");
-            var faculty=$('#faculty').val();
-            console.log(faculty);
-
-
-            var semester=$('#semester').val();
-            console.log(semester);
-
-             getSubjects(faculty,semester);
-
-
-
-
-        });
-        function getSubjects(faculty,semester){
-        $.ajax({
-           type:'POST',
-           url:"${createLink(controller: "subject", action: "getSubjects")}",
-           data: {f:faculty,s:semester},
-
-           success: function(response){
-              console.log(response);
-              for (i = 0; i < response.length; i++)
-                {
-                    $('#subject').append( '<option value="'+response[i].name+'">'+response[i].name+'</option>' );
-                }
-
-           },
-           error: function(response) {
-
-           }
-        });
-    }
-
-    </g:javascript>
-    <r:layoutResources/>
 
 </div>
 

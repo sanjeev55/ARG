@@ -18,6 +18,27 @@ class SubjectController {
         subject.name=name
         subject.semester=Integer.parseInt(semester)
         subject.faculty=faculty
+
+        def data=Subject.findAll()
+        if(data.size()!=0){
+            def subject1=Subject.findAll([sort: "id", order: "desc"])
+            def sub1=[]
+            sub1=subject1.code
+
+            for(def i=0;i<1;i++) {
+                def code = sub1[i]
+                print("code:"+code)
+
+                def code0 = Integer.parseInt(code, 2)
+                def sum = code0 + Integer.parseInt("1", 2)
+                def finalCode = Integer.toBinaryString(sum)
+
+                subject.code = finalCode
+            }
+        }
+        else{
+            subject.code="0"
+        }
         subject.save()
 
         redirect(action: "viewSubject")
@@ -27,6 +48,8 @@ class SubjectController {
     def viewSubject(){
         def subject=Subject.findAll()
         def user=session.user
+        def role=user.role
+        print("Role:"+role)
         render(view:"viewSubject",model: [s:subject,u:user])
 
     }
@@ -86,10 +109,14 @@ class SubjectController {
     def getSubjects(){
         def faculty=params.f
         def semester=Integer.parseInt(params.s)
+        print("faculty:"+faculty)
+        print("sem:"+semester)
 
         def subject=Subject.findAllByFacultyAndSemester(faculty,semester)
+        print("subject":+subject.size())
 
         render subject as JSON
+
     }
     def deleteSubject(){
 

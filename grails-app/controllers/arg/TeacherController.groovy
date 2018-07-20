@@ -14,16 +14,40 @@ class TeacherController {
         def type=params.type
         def shortName=params.shortName
 
+
         Teacher teacher=new Teacher()
 
         teacher.name=name
         teacher.address=address
         teacher.phoneNumber=phoneNumber
-         teacher.specialization=specialization
+        teacher.specialization=specialization
         teacher.type=type
         teacher.shortName=shortName
 
-       teacher.save();
+
+
+       def data=Teacher.findAll()
+        if(data.size()!=0){
+            def teacher1=Teacher.findAll([sort: "id", order: "desc"])
+            def teach1=[]
+            teach1=teacher1.code
+
+            for(def i=0;i<1;i++) {
+                def code = teach1[i]
+                print("code:"+code)
+
+                def code0 = Integer.parseInt(code, 2)
+                def sum = code0 + Integer.parseInt("1", 2)
+                def finalCode = Integer.toBinaryString(sum)
+
+                teacher.code = finalCode
+            }
+        }
+        else{
+            teacher.code="0"
+        }
+
+       teacher.save(failOnError: true)
 
         redirect(action: "viewTeacher")
 
@@ -93,7 +117,7 @@ class TeacherController {
         redirect(action: "viewTeacher")
     }
 
-    def getType(){
+  def getType(){
         def name=params.n
 
         def teacher=Teacher.findByName(name)
