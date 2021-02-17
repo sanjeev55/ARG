@@ -13,37 +13,40 @@ class SubjectController {
         def semester=params.semester
         def faculty=params.faculty
 
-        Subject subject=new Subject()
+        if(name==""||semester==""||faculty==""){
+            redirect(action: "addSubject")
+        }
+        else {
+            Subject subject = new Subject()
 
-        subject.name=name
-        subject.semester=Integer.parseInt(semester)
-        subject.faculty=faculty
+            subject.name = name
+            subject.semester = Integer.parseInt(semester)
+            subject.faculty = faculty
 
-        def data=Subject.findAll()
-        if(data.size()!=0){
-            def subject1=Subject.findAll([sort: "id", order: "desc"])
-            def sub1=[]
-            sub1=subject1.code
+            def data = Subject.findAll()
+            if (data.size() != 0) {
+                def subject1 = Subject.findAll([sort: "id", order: "desc"])
+                def sub1 = []
+                sub1 = subject1.code
 
-            for(def i=0;i<1;i++) {
-                def code = sub1[i]
-                print("code:"+code)
+                for (def i = 0; i < 1; i++) {
+                    def code = sub1[i]
+                    print("code:" + code)
 
-                def code0 = Integer.parseInt(code, 2)
-                def sum = code0 + Integer.parseInt("1", 2)
-                def finalCode = Integer.toBinaryString(sum)
+                    def code0 = Integer.parseInt(code, 2)
+                    def sum = code0 + Integer.parseInt("1", 2)
+                    def finalCode = Integer.toBinaryString(sum)
 
-                subject.code = finalCode
+                    subject.code = finalCode
+                }
+            } else {
+                subject.code = "0"
             }
+            subject.save()
+
+            redirect(action: "viewSubject")
+
         }
-        else{
-            subject.code="0"
-        }
-        subject.save()
-
-        redirect(action: "viewSubject")
-
-
     }
     def viewSubject(){
         def subject=Subject.findAll()

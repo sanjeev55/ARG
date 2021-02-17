@@ -6,7 +6,9 @@ class ActualData {
 
     Time startTime
     Time endTime
-    String name
-    String subject
-    String section
+    String teacherName
+    String subjectName
+    String faculty
+    int token
+    String day
 }

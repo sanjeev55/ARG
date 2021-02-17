@@ -1,30 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy" line="26" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="68d10234-9ed7-4ca5-8748-8eb7d5ce544e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/routine/enterClass.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/routine/enterTeacher.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/routine/routineGenerated.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/routine/routineTeacher.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/routine/selectYear.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/style1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/jquery-3.0.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/partials/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/partials/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/partials/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/scss/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure4.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure3_closure5_closure6.class" afterPath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure3_closure5_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Config.class" afterPath="$PROJECT_DIR$/target/classes/Config.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/ActualData.class" afterPath="$PROJECT_DIR$/target/classes/arg/ActualData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Chromosome.class" afterPath="$PROJECT_DIR$/target/classes/arg/Chromosome.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/College.class" afterPath="$PROJECT_DIR$/target/classes/arg/College.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/CollegeController.class" afterPath="$PROJECT_DIR$/target/classes/arg/CollegeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Faculty.class" afterPath="$PROJECT_DIR$/target/classes/arg/Faculty.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/FinalDna.class" afterPath="$PROJECT_DIR$/target/classes/arg/FinalDna.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Fitness1.class" afterPath="$PROJECT_DIR$/target/classes/arg/Fitness1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Fitness2.class" afterPath="$PROJECT_DIR$/target/classes/arg/Fitness2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/RoutineController$_createChildChromosome_closure1.class" afterPath="$PROJECT_DIR$/target/classes/arg/RoutineController$_createChildChromosome_closure1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/RoutineController$_createChildChromosome_closure2.class" afterPath="$PROJECT_DIR$/target/classes/arg/RoutineController$_createChildChromosome_closure2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/RoutineController.class" afterPath="$PROJECT_DIR$/target/classes/arg/RoutineController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/SlotController.class" afterPath="$PROJECT_DIR$/target/classes/arg/SlotController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Subject.class" afterPath="$PROJECT_DIR$/target/classes/arg/Subject.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/SubjectController.class" afterPath="$PROJECT_DIR$/target/classes/arg/SubjectController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/Teacher.class" afterPath="$PROJECT_DIR$/target/classes/arg/Teacher.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/arg/TeacherController.class" afterPath="$PROJECT_DIR$/target/classes/arg/TeacherController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.slcache/.index" afterPath="$PROJECT_DIR$/.slcache/.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ARG-grailsPlugins.iml" afterPath="$PROJECT_DIR$/ARG-grailsPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ARG.iml" afterPath="$PROJECT_DIR$/ARG.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/arg/SlotController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/arg/SlotController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Chromosome.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Chromosome.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/College.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/College.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Faculty.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Faculty.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/FinalDna.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/FinalDna.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Fitness1.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Fitness1.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Fitness2.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Fitness2.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/arg/Teacher.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/arg/Teacher.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/college/editData.gsp" afterPath="$PROJECT_DIR$/grails-app/views/college/editData.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/college/enterData.gsp" afterPath="$PROJECT_DIR$/grails-app/views/college/enterData.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/college/enterData1.gsp" afterPath="$PROJECT_DIR$/grails-app/views/college/enterData1.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/college/viewData.gsp" afterPath="$PROJECT_DIR$/grails-app/views/college/viewData.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/routine/result.gsp" afterPath="$PROJECT_DIR$/grails-app/views/routine/result.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/student/addInfo.gsp" afterPath="$PROJECT_DIR$/grails-app/views/student/addInfo.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/student/editInfo.gsp" afterPath="$PROJECT_DIR$/grails-app/views/student/editInfo.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/student/viewInfo.gsp" afterPath="$PROJECT_DIR$/grails-app/views/student/viewInfo.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp" afterPath="$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/teacher/editTeacher.gsp" afterPath="$PROJECT_DIR$/grails-app/views/teacher/editTeacher.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,26 +77,54 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="College.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/College.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="TeacherController.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="168">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoutineController.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy">
+      <file leaf-file-name="result.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/routine/result.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="448" column="0" lean-forward="false" selection-start-line="448" selection-start-column="0" selection-end-line="448" selection-end-column="0" />
+            <state relative-caret-position="546">
+              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enterTeacher.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/routine/enterTeacher.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enterClass.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/routine/enterClass.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,131 +133,77 @@
       <file leaf-file-name="editData.gsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/college/editData.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="252">
+              <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
               <folding>
-                <marker date="1520337258023" expanded="true" signature="3124:3442" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="3153:3427" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="3484:3672" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="3513:3662" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="3721:4248" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="3738:4240" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1520337258023" expanded="true" signature="3922:4176" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4029:4162" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4215:4230" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4275:4638" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4296:4630" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1520337258023" expanded="true" signature="4464:4562" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4600:4616" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4670:5044" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="4691:5036" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1520337258023" expanded="true" signature="4864:4967" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="5006:5022" ph="{...}" />
-                <marker date="1520337258023" expanded="true" signature="5089:5162" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3123:3441" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3152:3426" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3483:3671" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3512:3661" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3720:4247" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="3737:4239" ph="{&quot;type&quot;: 'POST'...}" />
+                <marker date="1533531278211" expanded="true" signature="3921:4175" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4028:4161" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4214:4229" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4274:4637" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4295:4629" ph="{&quot;type&quot;: 'POST'...}" />
+                <marker date="1533531278211" expanded="true" signature="4463:4561" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4599:4615" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4669:5043" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="4690:5035" ph="{&quot;type&quot;: 'POST'...}" />
+                <marker date="1533531278211" expanded="true" signature="4863:4966" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="5005:5021" ph="{...}" />
+                <marker date="1533531278211" expanded="true" signature="5088:5161" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Faculty.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Faculty.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="546">
+              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Routine.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Routine.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="Config.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="-1729">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fitness.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Fitness.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="UrlMappings.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActualData.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="DataSource.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="336">
+              <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CollegeController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy">
+      <file leaf-file-name="dashBoard.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enterData1.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/college/enterData1.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1806">
-              <caret line="86" column="11" lean-forward="false" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
-              <folding>
-                <marker date="1531817768490" expanded="true" signature="3171:3489" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="3200:3474" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="3531:3719" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="3560:3709" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="3768:4295" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="3785:4287" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1531817768490" expanded="true" signature="3969:4223" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4076:4209" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4262:4277" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4322:4685" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4343:4677" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1531817768490" expanded="true" signature="4511:4609" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4647:4663" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4718:5092" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="4739:5084" ph="{&quot;type&quot;: 'POST'...}" />
-                <marker date="1531817768490" expanded="true" signature="4912:5015" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="5054:5070" ph="{...}" />
-                <marker date="1531817768490" expanded="true" signature="5137:5210" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy">
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="2352">
+              <caret line="112" column="103" lean-forward="false" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="103" />
               <folding />
             </state>
           </provider>
@@ -203,6 +218,12 @@
         <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mail</find>
+      <find>onclick</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -227,57 +248,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/views/college/addInfo.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/college/editData.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subject/editSubject.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subject/searchByFacultyAndSemester.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subject/searchByFaculty.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subject/searchBySemester.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/teacher/searchByFaculty.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/teacher/searchByFacultyAndSemester.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/teacher/searchBySemester.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/student/addInfo.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/college/enterData.gsp" />
         <option value="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/user/login.gsp" />
         <option value="$PROJECT_DIR$/web-app/META-INF/context.xml" />
-        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/confirmation.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/arg/StudentController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/student/viewInfo.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/college/viewData.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/teacher/viewTeacher.gsp" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Day.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/class/assign.gsp" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Class.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Slot.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/arg/ClassController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/arg/SlotController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Group.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/Chromosome.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/TempDNA.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/Fitness2.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/Fitness1.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/FinalDna.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/routine/result.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/teacher/editTeacher.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/Teacher.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/college/enterData1.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Faculty.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/Fitness.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/Chromosome.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/FinalDna.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/Fitness1.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/Fitness2.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/selectYear.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/enterTeacher.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/student/addInfo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/student/editInfo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/student/viewInfo.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/routineTeacher.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/routineGenerated.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/enterClass.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/college/viewData.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/selectYear.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/routine/result.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/domain/arg/Teacher.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/arg/SlotController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp" />
+        <option value="$PROJECT_DIR$/web-app/css/styleTable.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/college/enterData.gsp" />
         <option value="$PROJECT_DIR$/grails-app/domain/arg/College.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/college/enterData1.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/college/editData.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/login.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy" />
       </list>
     </option>
   </component>
@@ -287,9 +308,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="170" />
+    <option name="y" value="206" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -309,141 +336,133 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="conf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
               <item name="arg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="domain" type="462c0819:PsiDirectoryNode" />
               <item name="arg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="college" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="routine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
+              <item name="grails-app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="student" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="subject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="teacher" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
+              <item name="ARG-Fourth Draft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ARG-Fourth Draft" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
-              <item name="web-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ARG" type="462c0819:PsiDirectoryNode" />
-              <item name="web-app" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ARG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Grails" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Work/ARM/School Routine Generator/ARG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Personal Project/Pasmina" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="context.xml&#9;FILE&#9;file://C:/Users/lenovo/IdeaProjects/ARG/web-app/WEB-INF/applicationContext.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\IdeaProjects\ARG\grails-app\views\teacher" />
-      <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app\images" />
+      <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app" />
       <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app\js" />
       <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app\css" />
-      <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app" />
+      <recent name="C:\Users\lenovo\IdeaProjects\ARG\grails-app\views\teacher" />
+      <recent name="C:\Users\lenovo\IdeaProjects\ARG\web-app\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -629,7 +648,70 @@
       <workItem from="1531883458744" duration="11091000" />
       <workItem from="1531975637138" duration="13643000" />
       <workItem from="1531999534546" duration="249000" />
-      <workItem from="1532062443213" duration="825000" />
+      <workItem from="1532062443213" duration="6355000" />
+      <workItem from="1533101475258" duration="21133000" />
+      <workItem from="1533185061595" duration="21096000" />
+      <workItem from="1533277554863" duration="18415000" />
+      <workItem from="1533308259186" duration="11522000" />
+      <workItem from="1533353314120" duration="18986000" />
+      <workItem from="1533451451718" duration="416000" />
+      <workItem from="1533453781857" duration="16986000" />
+      <workItem from="1533478277910" duration="5780000" />
+      <workItem from="1533486610433" duration="2612000" />
+      <workItem from="1533519294301" duration="33936000" />
+      <workItem from="1533613042410" duration="669000" />
+      <workItem from="1533617591531" duration="15797000" />
+      <workItem from="1533640672379" duration="3193000" />
+      <workItem from="1533654882627" duration="1788000" />
+      <workItem from="1533699488438" duration="1509000" />
+      <workItem from="1533712828026" duration="5661000" />
+      <workItem from="1533783733143" duration="1626000" />
+      <workItem from="1533879561336" duration="919000" />
+      <workItem from="1533880804675" duration="24545000" />
+      <workItem from="1533911450801" duration="5465000" />
+      <workItem from="1533945443045" duration="2012000" />
+      <workItem from="1533952890284" duration="13093000" />
+      <workItem from="1538628065651" duration="16000" />
+      <workItem from="1538717298146" duration="636000" />
+      <workItem from="1543726457380" duration="2428000" />
+      <workItem from="1546356979649" duration="224000" />
+      <workItem from="1546759483089" duration="677000" />
+      <workItem from="1560674930533" duration="1844000" />
+      <workItem from="1560681113364" duration="2185000" />
+      <workItem from="1560830821744" duration="2039000" />
+      <workItem from="1560836391964" duration="209000" />
+      <workItem from="1560836675362" duration="187000" />
+      <workItem from="1560912560173" duration="4360000" />
+      <workItem from="1561084882813" duration="1382000" />
+      <workItem from="1561088864488" duration="77000" />
+      <workItem from="1561089181674" duration="5705000" />
+      <workItem from="1561098860495" duration="609000" />
+      <workItem from="1569831697584" duration="792000" />
+      <workItem from="1573137786485" duration="669000" />
+      <workItem from="1577697931319" duration="632000" />
+      <workItem from="1577698801576" duration="142000" />
+      <workItem from="1577699116692" duration="749000" />
+      <workItem from="1580273002220" duration="1804000" />
+      <workItem from="1580365061175" duration="612000" />
+      <workItem from="1580391043096" duration="216000" />
+      <workItem from="1580443904263" duration="914000" />
+      <workItem from="1580734797278" duration="15000" />
+      <workItem from="1580960394737" duration="2999000" />
+      <workItem from="1581047060348" duration="2420000" />
+      <workItem from="1581136100229" duration="610000" />
+      <workItem from="1581177608345" duration="3000" />
+      <workItem from="1582095920099" duration="2082000" />
+      <workItem from="1582434082338" duration="1598000" />
+      <workItem from="1585982521048" duration="3048000" />
+      <workItem from="1585998122406" duration="155000" />
+      <workItem from="1586063593772" duration="1645000" />
+      <workItem from="1586075970891" duration="599000" />
+      <workItem from="1586079118183" duration="286000" />
+      <workItem from="1586079427141" duration="1643000" />
+      <workItem from="1586161282023" duration="234000" />
+      <workItem from="1586161530934" duration="3160000" />
+      <workItem from="1586230399847" duration="1574000" />
+      <workItem from="1613539594077" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1527674168114</created>
@@ -656,34 +738,43 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254974000" />
+    <option name="totallyTimeSpent" value="540539000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.44038668" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2533784" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34534883" sideWeight="0.6578125" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.55961335" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277439" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47209302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32116005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15413533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -691,7 +782,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Grails Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.4875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.4875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="5.2083336E-4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -713,117 +804,173 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.grails/ivy-cache/org.springframework/spring-webmvc/jars/spring-webmvc-3.1.4.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="353" column="0" lean-forward="false" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="0" />
+        <state relative-caret-position="924">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.grails/ivy-cache/org.apache.tomcat.embed/tomcat-embed-core/jars/tomcat-embed-core-7.0.39.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/ARG/plugins/cache-1.0.1/src/java/grails/plugin/cache/web/filter/PageFragmentCachingFilter.java">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="242" column="0" lean-forward="false" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/ARG/plugins/cache-1.0.1/src/java/grails/plugin/cache/web/ProxyAwareMixedGrailsControllerHelper.java">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1260">
+          <caret line="60" column="74" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/ARG/plugins/cache-1.0.1/src/java/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.java">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="924">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.grails/2.2.3/projects/ARG/plugins/cache-1.0.1/src/java/grails/plugin/cache/web/filter/AbstractFilter.java">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Fitness1.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Fitness2.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="74" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="74" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Chromosome.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/FinalDna.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/result.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="56" column="46" lean-forward="false" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/college/enterData.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchByFaculty.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/college/enterData1.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-733">
+        <state relative-caret-position="3423">
+          <caret line="163" column="57" lean-forward="false" selection-start-line="163" selection-start-column="57" selection-end-line="163" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/college/viewData.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchByFacultyAndSemester.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/viewTeacher.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1048">
+        <state relative-caret-position="1281">
+          <caret line="61" column="65" lean-forward="false" selection-start-line="61" selection-start-column="65" selection-end-line="61" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchTeacher.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchBySemester.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -835,7 +982,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchByFaculty.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchByFacultyAndSemester.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchByFaculty.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/editTeacher.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="84" lean-forward="false" selection-start-line="32" selection-start-column="84" selection-end-line="32" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchSubject.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchBySemester.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchByName.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -849,42 +1045,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchByName.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchBySemester.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-859">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchSubject.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1969">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/editTeacher.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/viewTeacher.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/searchTeacher.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/searchByFaculty.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -898,269 +1059,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Slot.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="651">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/college/viewData.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/student/viewInfo.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/teacher/addTeacher.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/student/editInfo.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="101" column="7" lean-forward="false" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/SlotController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/student/addInfo.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/FacultyController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/DayController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/StudentController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/addSubject.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/selectYear.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="30" column="75" lean-forward="true" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/subject/viewSubject.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/routineTeacher.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="69" column="36" lean-forward="true" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/routineGenerated.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/result.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/enterTeacher.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/routine/enterClass.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/user/dashBoard.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="56" column="67" lean-forward="false" selection-start-line="56" selection-start-column="67" selection-end-line="56" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/login.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="34" column="81" lean-forward="false" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/UserController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Teacher.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="137" column="24" lean-forward="true" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.grails/ivy-cache/org.grails/grails-plugin-converters/jars/grails-plugin-converters-2.2.3.jar!/grails/converters/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/SubjectController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="115" column="40" lean-forward="false" selection-start-line="115" selection-start-column="40" selection-end-line="115" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/college/enterData.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/college/enterData1.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1806">
-          <caret line="86" column="11" lean-forward="false" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
-          <folding>
-            <marker date="1531817768490" expanded="true" signature="3171:3489" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="3200:3474" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="3531:3719" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="3560:3709" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="3768:4295" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="3785:4287" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1531817768490" expanded="true" signature="3969:4223" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4076:4209" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4262:4277" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4322:4685" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4343:4677" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1531817768490" expanded="true" signature="4511:4609" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4647:4663" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4718:5092" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="4739:5084" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1531817768490" expanded="true" signature="4912:5015" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="5054:5070" ph="{...}" />
-            <marker date="1531817768490" expanded="true" signature="5137:5210" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/ActualData.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Subject.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/CollegeController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="2352">
+          <caret line="112" column="103" lean-forward="false" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="103" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/college/editData.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="252">
+          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
           <folding>
-            <marker date="1520337258023" expanded="true" signature="3124:3442" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="3153:3427" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="3484:3672" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="3513:3662" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="3721:4248" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="3738:4240" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1520337258023" expanded="true" signature="3922:4176" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4029:4162" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4215:4230" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4275:4638" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4296:4630" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1520337258023" expanded="true" signature="4464:4562" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4600:4616" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4670:5044" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="4691:5036" ph="{&quot;type&quot;: 'POST'...}" />
-            <marker date="1520337258023" expanded="true" signature="4864:4967" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="5006:5022" ph="{...}" />
-            <marker date="1520337258023" expanded="true" signature="5089:5162" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3123:3441" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3152:3426" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3483:3671" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3512:3661" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3720:4247" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="3737:4239" ph="{&quot;type&quot;: 'POST'...}" />
+            <marker date="1533531278211" expanded="true" signature="3921:4175" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4028:4161" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4214:4229" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4274:4637" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4295:4629" ph="{&quot;type&quot;: 'POST'...}" />
+            <marker date="1533531278211" expanded="true" signature="4463:4561" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4599:4615" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4669:5043" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="4690:5035" ph="{&quot;type&quot;: 'POST'...}" />
+            <marker date="1533531278211" expanded="true" signature="4863:4966" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="5005:5021" ph="{...}" />
+            <marker date="1533531278211" expanded="true" signature="5088:5161" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Routine.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="546">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Faculty.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="-1729">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/Fitness.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/arg/College.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="336">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/RoutineController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/arg/TeacherController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="448" column="0" lean-forward="false" selection-start-line="448" selection-start-column="0" selection-end-line="448" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1172,7 +1218,7 @@
         <entry key="ARG">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-434446122" />
+              <option name="buildConfigCrc" value="-1598801087" />
               <option name="pluginDependenciesCrc" value="-962284282" />
               <option name="properties">
                 <map>
@@ -1251,6 +1297,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

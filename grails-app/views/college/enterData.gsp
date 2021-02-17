@@ -14,7 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Select Faculty and Semester</title>
+    <title>Enter Data</title>
 
 
     <link rel="stylesheet" href="${resource(dir: 'css', file: 'form-basic.css')}">
@@ -41,7 +41,8 @@
                 <span>Select Faculty</span>
                 <select name="faculty">
                     <option>------</option>
-                    <option value="BCT">BCT</option>
+                    <option value="BCT A">BCT A</option>
+                    <option value="BCT B">BCT B</option>
                     <option value="BEX">BEX</option>
                 </select>
             </label>
@@ -73,6 +74,7 @@
         <g:link controller="college" action="viewData"
                 style="text-decoration: none"><button>View Details</button></g:link>
     </div>
+
 
 </div>
 

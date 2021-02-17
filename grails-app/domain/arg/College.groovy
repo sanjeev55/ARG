@@ -28,5 +28,4 @@ class College {
     Time sunEndTime
 
 
-
 }

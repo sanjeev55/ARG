@@ -67,7 +67,7 @@ environments {
                 host = "smtp.gmail.com"
                 port = 465
                 username = "generatorroutine@gmail.com"
-                password = "routinegenerator1234"
+                password = "Routinegenerator1234"
                 props = ["mail.smtp.auth":"true",
                          "mail.smtp.socketFactory.port":"465",
                          "mail.smtp.socketFactory.class":"javax.net.ssl.SSLSocketFactory",

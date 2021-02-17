@@ -71,7 +71,7 @@
         <div class="form-row">
             <label>
                 <span>Type</span>
-                <select name="type">
+                <select name="type" id="type">
                     <option value="Full Time">Full Time</option>
                     <option value="Part Time">Part Time</option>
                     <option value="Contract">Contract</option>
@@ -79,12 +79,146 @@
             </label>
         </div>
 
+
+        <div class="form-row">
+            <label>
+                <span> Tue Start Time</span>
+                <input type="text" name="tueStartTime" id="tueStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span> Tue End Time</span>
+                <input type="text" name="tueEndTime" id="tueEndTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span> Wed Start Time</span>
+                <input type="text" name="wedStartTime" id="wedStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Wed End Time</span>
+                <input type="text" name="wedEndTime" id="wedEndTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Thur Start Time</span>
+                <input type="text" name="thurStartTime" id="thurStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Thur End Time</span>
+                <input type="text" name="thurEndTime" id="thurEndTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Friday Start Time</span>
+                <input type="text" name="friStartTime" id="friStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Friday End Time</span>
+                <input type="text" name="friEndTime" id="friEndTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Saturday Start Time</span>
+                <input type="text" name="satStartTime" id="satStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Saturday End Time</span>
+                <input type="text" name="satEndTime" id="satEndTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Sun Start Time</span>
+                <input type="text" name="sunStartTime" id="sunStartTime">
+            </label>
+        </div>
+        <div class="form-row">
+            <label>
+                <span>Sunday End Time</span>
+                <input type="text" name="sunEndTime" id="sunEndTime">
+            </label>
+        </div>
         <div class="form-row">
             <button type="submit">Add</button>
         </div>
 
 
     </g:form>
+    <g:javascript>
+        var type=$('#type').val();
+
+        $('#type').keypress(function(e){
+            if(e.which==13){
+                var type=$('#type').val();
+                if(type=="Full Time"){
+                getStartTime();
+                getEndTime();
+                }
+                console.log(type);
+            }
+        });
+          function getStartTime(){
+            $.ajax({
+            type:'POST',
+            url:"${createLink(controller: "slot", action:"getStartTime")}",
+
+
+            success :function(response){
+                console.log(response);
+
+                $('#tueStartTime').val(response);
+                $('#wedStartTime').val(response);
+                $('#thurStartTime').val(response);
+                $('#friStartTime').val(response);
+                $('#satStartTime').val(response);
+                $('#sunStartTime').val(response);
+
+            },
+            error: function(response){
+
+            }
+            });
+    }
+      function getEndTime(){
+            $.ajax({
+            type:'POST',
+            url:"${createLink(controller: "slot", action:"getEndTime")}",
+
+
+            success :function(response){
+                console.log(response);
+
+                $('#tueEndTime').val(response);
+                $('#wedEndTime').val(response);
+                $('#thurEndTime').val(response);
+                $('#friEndTime').val(response);
+                $('#satEndTime').val(response);
+                $('#sunEndTime').val(response);
+
+            },
+            error: function(response){
+
+            }
+            });
+    }
+</g:javascript>
+    <r:layoutResources/>
+</div>
+</div>
     <div class="form-basic">
         <g:link controller="teacher" action="viewTeacher"
                 style="text-decoration: none"><button>View Teachers</button></g:link>

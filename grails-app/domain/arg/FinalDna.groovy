@@ -2,8 +2,9 @@ package arg
 
 class FinalDna {
 
-    String time
-    String teacherSubject
-    String section
+    String slot
+    String teacher
+    String subject
+    String faculty
     int token
 }

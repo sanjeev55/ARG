@@ -58,8 +58,13 @@
                                  class="nav-link js-scroll-trigger">Academic Year</g:link>
 
                     <li class="nav-item">
-                        <g:link controller="routine" action="createChromosome"
+                        <g:link controller="routine" action="selectYear"
                                 class="nav-link js-scroll-trigger">Generate Routine</g:link>
+                    </li>
+
+                    <li class="nav-item">
+                        <g:link controller="routine" action="viewRoutine"
+                                class="nav-link js-scroll-trigger">View Routine</g:link>
                     </li>
                     <li class="nav-item">
                         <g:link controller="user" action="logOut" class="nav-link js-scroll-trigger">Log Out</g:link>
@@ -89,6 +94,9 @@
             <g:link controller="college" action="viewData"
                     class="nav-link js-scroll-trigger">Academic Information</g:link>
         <li class="nav-item">
+        <g:link controller="routine" action="viewRoutine"
+                class="nav-link js-scroll-trigger">View Routine</g:link>
+        </li>
             <g:link controller="user" action="logOut" class="nav-link js-scroll-trigger">Log Out</g:link>
         </li>
     </g:if>
@@ -148,7 +156,7 @@
             <div class="col-lg-8 mx-auto">
                 <h2>Contact Us</h2>
 
-                <p>Feel free to contact me at
+                <p>Feel free to contact us at
 
                 </p>
                 <ul class="list-inline banner-social-buttons">
